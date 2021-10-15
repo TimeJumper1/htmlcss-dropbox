@@ -86,9 +86,14 @@ img{
 }
 .col-text{
     width: 30%;
+    margin-bottom: 150px;
 }
 .col-img{
     width: 70%;
+    position: relative;
+}
+.jumbotron{
+    position: absolute;
 }
 .title h1{
     font-size: 80px;
