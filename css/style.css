@@ -48,6 +48,14 @@ img{
 .border-element:hover{
     border-bottom: 2px solid black;
 }
+.title{
+
+}
+.text{
+    font-size: 20px;
+    color:#2a2a2a ;
+    line-height: 30px;
+}
 /* header */
 .menu-top{
     position: fixed;
@@ -63,6 +71,32 @@ img{
     padding: 30px;
 }
 .logo{
-    vertical-align: middle;
+    vertical-align: middle; 
+}
+/* main */
+/* jumbotron */
+.background-element{
+    background-color: #b4d0e7;
+}
+.bigger-container{
+    width: 80%;
+    padding-top:100px ;
+    margin: auto;
 
+}
+.col-text{
+    width: 30%;
+}
+.col-img{
+    width: 70%;
+}
+.title h1{
+    font-size: 80px;
+    color: black;
+    margin-top: 150px;
+    margin-bottom: 70px;
+}
+.arrow-element i{
+    
+    font-size: 90px;
 }
