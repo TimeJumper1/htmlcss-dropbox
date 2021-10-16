@@ -57,6 +57,9 @@ img{
 .position{
     position: relative;
 }
+.gray-border{
+    border: 1px solid lightgrey;
+}
 /* header */
 .menu-top{
     position: fixed;
@@ -151,11 +154,10 @@ img{
     padding: 10px 80px;
 }
 .col-element{
-    border: 1px solid lightgrey;
     line-height: 20px;
     width: 28%;
     padding: 80px 15px;
-    margin: 0 1%;
+    height: 925px;
 }
 .col-element span{
     display: inline-block;
@@ -172,9 +174,20 @@ img{
 
 }
 .central-column{
-    margin: 0 40px;
+    margin: 0 8%;
 }
-.test{
-
+/* all witdh column section */
+.info-element{
+    margin-top: 50px;
+}
+.enterprise{
+    width: 70%;
+}
+.bottone{
+    width: 30%;
+    text-align: right;
+}
+.full-column{
+    margin-top: 50px;
 }
 
