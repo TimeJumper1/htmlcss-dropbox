@@ -182,12 +182,32 @@ img{
 }
 .enterprise{
     width: 70%;
+    padding: 20px;
 }
 .bottone{
     width: 30%;
     text-align: right;
+    padding: 20px;
+}
+.bottone a{
+    color: white;
 }
 .full-column{
     margin-top: 50px;
+}
+/* partner section */
+.partner-section{
+    margin-top: 80px;
+}
+.col-img-60{
+    width: 60%;
+    padding-right: 40px;
+}
+/* dropbox operation section */
+.col-img-30{
+    width: 30%;
+}
+.row{
+    margin: auto;
 }
 
