@@ -78,6 +78,11 @@ img{
 .chiaro{
     color: #b4bbc2;
 }
+.pure-blue{
+    color: #0061ff;
+    text-decoration: underline;
+    
+}
 
 /* header */
 .menu-top{
