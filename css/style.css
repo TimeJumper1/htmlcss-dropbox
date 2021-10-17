@@ -389,6 +389,9 @@ img{
     background-color: lightgrey;
 }
 /* domande frequenti section */
+.positioning{
+    margin-bottom: 90px;
+}
 .title-domande{
     font-size: 40px;
     margin: 60px 0 40px 0;
@@ -400,8 +403,38 @@ img{
     border-top: 1px solid lightgrey;
     border-bottom: 1px solid lightgrey;
     display: block;
+    font-weight: 700;
 }
 .text-right{
     text-align: right;
     padding-right: 20px;
+}
+/* footer */
+footer{
+    background-color: black;
+}
+.footer li{
+    display: block;
+    line-height: 30px;
+    
+}
+.footer h3{
+    line-height: 60px;
+    color: white;
+}
+.footer a{
+    color: white;
+}
+.col-footer{
+    width: 20%;
+    text-align: left;
+    margin-bottom: 60px;
+}
+.bottom-footer{
+    width: 10%;
+    color: #4a4a4a;
+    text-align: left;
+    padding: 40px 0;
+    border-top: 1px solid lightgray;
+    font-size: 15px;
 }
