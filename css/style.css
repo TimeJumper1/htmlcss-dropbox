@@ -388,4 +388,20 @@ img{
 .btn-whithe .btn:hover{
     background-color: lightgrey;
 }
-
+/* domande frequenti section */
+.title-domande{
+    font-size: 40px;
+    margin: 60px 0 40px 0;
+}
+.text-domande{
+    width: 100%;
+    font-size: 20px;
+    padding: 30px 0;
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+    display: block;
+}
+.text-right{
+    text-align: right;
+    padding-right: 20px;
+}
