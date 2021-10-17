@@ -364,5 +364,28 @@ img{
     top: 70%;
     left: 3%;
 }
-
+/* porta Dropbox nella tua azienda section */
+.background-color{
+    background-color: #b4d0e7;
+    width: 100%;
+    display: block;
+}
+.title-color{
+    color: #61082b;
+    
+}
+.title-position{
+    width: 50%;
+    margin-bottom: 60px;
+}
+.btn-whithe .btn{
+    background-color: white;
+    color: black;
+    display: inline-block;
+    padding: 8px 60px;
+    line-height: normal;
+}
+.btn-whithe .btn:hover{
+    background-color: lightgrey;
+}
 
