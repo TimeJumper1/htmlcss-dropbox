@@ -186,7 +186,7 @@ img{
 .col-element{
     line-height: 20px;
     width: 28%;
-    padding: 80px 15px;
+    padding: 80px 20px;
     height: 1000px;
 }
 .col-element span{
@@ -198,6 +198,9 @@ img{
     border-bottom: 1px solid lightgrey;
     padding-bottom: 20px;
     
+}
+.col-element i{
+    margin-left: -10px;
 }
 .col-element .chiaro{
     padding-top: 0px;
@@ -214,6 +217,7 @@ img{
 .checkmark li::before{
     content:" \2713 ";
     color: #0061ff;
+    margin-left: -10px;
  
 }
 .checkmark li{
