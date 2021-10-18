@@ -157,7 +157,7 @@ img{
     display: inline-block;
     border: 4px solid #0061ff;
     border-radius: 50%;
-    width: 14px;
+    width: 15px;
     height: 15px;
 }
 .fake-btn-white{
@@ -165,7 +165,7 @@ img{
     display: inline-block;
     border: 2px solid lightgrey;
     border-radius: 50%;
-    width: 14px;
+    width: 15px;
     height: 15px;
     margin-left: 15px;
 }
@@ -186,7 +186,7 @@ img{
 .col-element{
     line-height: 20px;
     width: 28%;
-    padding: 80px 20px;
+    padding: 80px 20px; 
     height: 1000px;
 }
 .col-element span{
@@ -200,10 +200,11 @@ img{
     
 }
 .col-element i{
-    margin-left: -10px;
+    margin-left: -14px;
 }
 .col-element .chiaro{
     padding-top: 0px;
+    font-size: 15px;
     
 }
 .col-element .pure-blue{
@@ -217,7 +218,7 @@ img{
 .checkmark li::before{
     content:" \2713 ";
     color: #0061ff;
-    margin-left: -10px;
+    margin-left: -12px;
  
 }
 .checkmark li{
@@ -226,6 +227,10 @@ img{
 }
 .central-column{
     margin: 0 8%;
+}
+.col-element .btn{
+    width: 100%;
+    text-align: center;
 }
 /* all witdh column section */
 .info-element{
@@ -251,6 +256,10 @@ img{
 }
 .bottone a{
     color: white;
+}
+.bottone .btn{
+    width: 100%;
+    text-align: center;
 }
 .full-column{
     margin-top: 50px;
@@ -295,7 +304,7 @@ img{
     margin-top: 250px;
     margin-bottom: 50px;
 }
-/* partner section */
+/* partner logo section */
 .col-logo{
     width: 15%;
     height: 500px;
@@ -356,6 +365,13 @@ img{
     left: 22%;
     transform: translate(-50% , -50%);
     filter: invert(0);
+  
+}
+.line-element{
+    position: absolute;
+    top: 28%;
+    left: 5%;
+    width: 60px;
     border-bottom: 1px solid lightslategray;
 }
 .text-positioning{
